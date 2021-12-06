@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //Making some changes in second file
         public int CategoryId { get; set; }
 
         [Required]
